@@ -6,7 +6,8 @@
 ---
 
  
-![Click here to watch the demo video](readme_Images/video1.mp4)
+<video src="readme_Images/video1.mp4" controls="controls" muted="muted" style="max-width: 100%;">
+</video>
 
 
 
